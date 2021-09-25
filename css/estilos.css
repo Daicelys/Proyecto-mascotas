@@ -16,9 +16,8 @@
     color: white;
 }
 
-.header .navbar {
-    background-color: transparent !important;
-    color: white;
+.header .navbar a {
+    color: white);
 }
 
 .seccion-formulario {
