@@ -1,0 +1,26 @@
+.encabezado {
+    background: url("../img/pequeño.jpg") no-repeat center;
+    width: 100vw;
+    color: white;
+    background-size: cover;
+    padding-top: 0px;
+}
+
+.encabezado h1 {
+    color: white;
+    font-size: 50px;
+}
+
+.mascota {
+    background: rgb(63, 56, 59);
+    color: white;
+}
+
+.header .navbar {
+    background-color: transparent !important;
+    color: white;
+}
+
+.seccion-formulario {
+    background: rgb(163, 161, 162);
+}
