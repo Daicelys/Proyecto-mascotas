@@ -21,6 +21,17 @@ h6 {
     color: white;
 }
 
-.seccion-formulario {
-    background: rgb(63, 56, 59);
+.card p {
+    color: black;
+}
+
+.card h5 {
+    color: black;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 15vh;
+    min-height: 1px;
+    padding: 1.25rem;
 }
