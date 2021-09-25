@@ -16,10 +16,11 @@
     color: white;
 }
 
-.header .navbar a {
-    color: white);
+h6 {
+    font-size: 1rem;
+    color: white;
 }
 
 .seccion-formulario {
-    background: rgb(163, 161, 162);
+    background: rgb(63, 56, 59);
 }
